@@ -16,7 +16,7 @@ In this project, we will develop a REST Api to parse a JSON schema model divided
 -Secure the REST Api with a security protocol like JWT or OAuth2.
 
 
-3.Prototype demo 3
+3. Prototype demo 3
 
 -Adding Elasticsearch capabilities
 -Adding Kafka system for REST API queueing
